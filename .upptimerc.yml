@@ -4,15 +4,13 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Rayan Das
+  - name: rayandas.in
     url: https://rayandas.in
-  - name: Rayan Das TIL
+  - name: til.rayandas.in
     url: https://til.rayandas.in
-  - name: Rayan Das ScrollStack
+  - name: raydeeam.scrollstack.com
     url: https://raydeeam.scrollstack.com
-  - name: ScrollStack
+  - name: scrollstack.com
     url: https://scrollstack.com
 
 status-website:
@@ -22,13 +20,14 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: ScrollStack Uptime Monitoring Site
+  introTitle: "**ScrollStack** Uptime Monitoring."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: ScrollStack
+      href: https://scrollstack.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
