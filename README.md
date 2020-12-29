@@ -1,4 +1,4 @@
-# [📈 Live Status](https://uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://rayandas.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://uptime)
+[**Visit our status website →**](https://rayandas.github.io/uptime)
 
 ## 📄 License
 
