@@ -4,14 +4,16 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: scrollstack.com
+    url: https://www.scrollstack.com/
+  - name: engineering.scrollstack.com
+    url: https://engineering.scrollstack.com/
+  - name: raydeeam.scrollstack.com
+    url: https://raydeeam.scrollstack.com/
   - name: rayandas.in
     url: https://rayandas.in
   - name: til.rayandas.in
     url: https://til.rayandas.in
-  - name: raydeeam.scrollstack.com
-    url: https://raydeeam.scrollstack.com
-  - name: scrollstack.com
-    url: https://scrollstack.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
