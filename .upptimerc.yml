@@ -10,6 +10,8 @@ sites:
     url: https://engineering.scrollstack.com/
   - name: raydeeam.scrollstack.com
     url: https://raydeeam.scrollstack.com/
+  - name: api.scrollstack.com/
+    url: https://api.scrollstack.com/api/w/echo/uptime
   - name: rayandas.in
     url: https://rayandas.in
   - name: til.rayandas.in
