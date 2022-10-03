@@ -2,7 +2,7 @@
   {
     "name": "rayandas.in",
     "url": "https://rayandas.in",
-    "icon": "https://favicons.githubusercontent.com/rayandas.in",
+    "icon": "https://icons.duckduckgo.com/ip3/rayandas.in.ico",
     "slug": "rayandas-in",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 75,
-    "timeWeek": 127,
-    "timeMonth": 173,
+    "timeDay": 219,
+    "timeWeek": 152,
+    "timeMonth": 177,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
     "name": "til.rayandas.in",
     "url": "https://til.rayandas.in",
-    "icon": "https://favicons.githubusercontent.com/til.rayandas.in",
+    "icon": "https://icons.duckduckgo.com/ip3/til.rayandas.in.ico",
     "slug": "til-rayandas-in",
     "status": "up",
     "uptime": "99.85%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 63,
-    "timeWeek": 106,
-    "timeMonth": 179,
+    "timeDay": 149,
+    "timeWeek": 121,
+    "timeMonth": 182,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2022-07-06": 20
