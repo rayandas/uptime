@@ -6,9 +6,9 @@
     "slug": "rayandas-in",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 202,
     "timeDay": 1784,
@@ -16,7 +16,7 @@
     "timeMonth": 311,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-07-26": 35,
+      "2023-07-26": 28,
       "2023-01-09": 114,
       "2023-01-08": 20
     }
