@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 197,
-    "timeDay": 240,
-    "timeWeek": 144,
-    "timeMonth": 177,
+    "timeDay": 265,
+    "timeWeek": 173,
+    "timeMonth": 183,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2023-07-26": 28
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/til.rayandas.in.ico",
     "slug": "til-rayandas-in",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 216,
-    "timeWeek": 123,
-    "timeMonth": 143,
-    "timeYear": 165,
+    "timeDay": 271,
+    "timeWeek": 151,
+    "timeMonth": 149,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   }
 ]
