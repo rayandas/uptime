@@ -6,17 +6,16 @@
     "slug": "rayandas-in",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 244,
-    "timeWeek": 171,
-    "timeMonth": 171,
+    "timeDay": 344,
+    "timeWeek": 182,
+    "timeMonth": 178,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-06-13": 7,
       "2023-07-26": 28
     }
   },
@@ -27,17 +26,15 @@
     "slug": "til-rayandas-in",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 155,
-    "timeWeek": 145,
-    "timeMonth": 168,
+    "time": 181,
+    "timeDay": 419,
+    "timeWeek": 214,
+    "timeMonth": 183,
     "timeYear": 180,
-    "dailyMinutesDown": {
-      "2024-06-13": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
