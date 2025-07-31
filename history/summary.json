@@ -24,19 +24,19 @@
     "url": "https://til.rayandas.in",
     "icon": "https://icons.duckduckgo.com/ip3/til.rayandas.in.ico",
     "slug": "til-rayandas-in",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 201,
-    "timeDay": 60,
-    "timeWeek": 179,
-    "timeMonth": 182,
+    "timeDay": 101,
+    "timeWeek": 174,
+    "timeMonth": 181,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-07-31": 0,
+      "2025-07-31": 30,
       "2025-02-20": 78
     }
   }
