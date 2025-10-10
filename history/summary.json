@@ -4,18 +4,19 @@
     "url": "https://rayandas.in",
     "icon": "https://icons.duckduckgo.com/ip3/rayandas.in.ico",
     "slug": "rayandas-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 206,
     "timeDay": 122,
     "timeWeek": 168,
     "timeMonth": 181,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2025-10-10": 1,
       "2025-02-20": 78
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://til.rayandas.in",
     "icon": "https://icons.duckduckgo.com/ip3/til.rayandas.in.ico",
     "slug": "til-rayandas-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 193,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2025-10-10": 0,
       "2025-07-31": 30,
       "2025-02-20": 78
     }
