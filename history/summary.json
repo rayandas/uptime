@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.21%",
+    "uptimeYear": "88.46%",
     "time": 157,
-    "timeDay": 163,
+    "timeDay": 116,
     "timeWeek": 155,
-    "timeMonth": 186,
+    "timeMonth": 183,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-12-23": 350,
@@ -57,8 +57,7 @@
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
-      "2025-11-12": 1440,
-      "2025-11-11": 1440
+      "2025-11-12": 1440
     }
   },
   {
@@ -67,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/til.rayandas.in.ico",
     "slug": "til-rayandas-in",
     "status": "down",
-    "uptime": "81.47%",
+    "uptime": "81.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 196,
+    "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-10": 291,
+      "2026-11-11": 196,
+      "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
@@ -441,8 +441,7 @@
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
-      "2025-11-12": 1440,
-      "2025-11-11": 1440
+      "2025-11-12": 1440
     }
   }
 ]
